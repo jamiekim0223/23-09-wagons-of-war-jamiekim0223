@@ -1,6 +1,6 @@
 import static java.lang.System.*;
 
-public class WagonRunner
+public class WagonTester
 {
 	public static void main( String[] args )
 	{
